@@ -4,4 +4,4 @@ A responsive table that paginates columns for data-heavy tables used in variety 
 
 ## Overview
 
-This implementation attempts to add breaking points to tabe columns to avoid the classic truncation of data limited by small viewports
+This implementation attempts to add breaking points to table columns to avoid the classic truncation of data; limited by small viewports
